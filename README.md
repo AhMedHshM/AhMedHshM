@@ -1,16 +1,74 @@
-## Hi there 👋
+👋 Hi, I'm Ahmed Hesham
 
-<!--
-**AhMedHshM/AhMedHshM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Data Science Student
+🎓 Helwan University of Technology (HITU)
 
-Here are some ideas to get you started:
+--------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I'm a Data Science student passionate about transforming raw data into meaningful insights.
+
+I enjoy building dashboards, analyzing datasets, writing SQL queries, and solving business problems using data.
+
+Currently improving my skills in Python, SQL, Power BI, and Machine Learning.
+
+--------------------------------
+
+🛠 Tech Stack
+
+• Python
+• SQL
+• PostgreSQL
+• Power BI
+• Excel
+• Pandas
+• NumPy
+• HTML
+• Git
+• GitHub
+
+--------------------------------
+
+📚 Currently Learning
+
+• Advanced Python
+• Data Analysis
+• Machine Learning
+• Statistics
+• Data Visualization
+
+--------------------------------
+
+🏆 Certifications
+
+✔ Data Analysis with Power BI
+✔ Python Object Oriented
+
+--------------------------------
+
+📈 Featured Projects
+
+📊 Power BI Sales Dashboard
+
+📈 HR Dashboard
+
+🐍 Python Data Analysis
+
+🗄 SQL Database Project
+
+--------------------------------
+
+📫 Connect With Me
+
+GitHub
+
+LinkedIn
+
+--------------------------------
+
+GitHub Stats
+
+Top Languages
+
+Visitors Counter
